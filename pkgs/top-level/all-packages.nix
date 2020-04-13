@@ -10196,6 +10196,8 @@ in
 
   elfutils = callPackage ../development/tools/misc/elfutils { };
 
+  elixir-ls = callPackage ../development/tools/elixir-ls { };
+
   emma = callPackage ../development/tools/analysis/emma { };
 
   epm = callPackage ../development/tools/misc/epm { };
