@@ -7003,6 +7003,16 @@
       fingerprint = "0EC3 FA89 EFBA B421 F82E  40B0 2567 6BCB FFAD 76B1";
     }];
   };
+  sorixelle = {
+    email = "ruby@srxl.me";
+    github = "Sorixelle";
+    githubId = 38685302;
+    name = "Ruby Iris Juric";
+    keys = [{
+      longkeyid = "rsa4096/0xEFC576FB6897FB1D";
+      fingerprint = "84AD 2774 BD66 0D23 3EB0  B3D4 EFC5 76FB 6897 FB1D";
+    }];
+  };
   sorki = {
     email = "srk@48.io";
     github = "sorki";
