@@ -3675,9 +3675,7 @@ broken-packages:
   - broker-haskell
   - bronyradiogermany-common
   - bronyradiogermany-streaming
-  - brotli
   - brotli-conduit
-  - brotli-streams
   - browscap
   - bsd-sysctl
   - bson
@@ -6813,7 +6811,6 @@ broken-packages:
   - http-dispatch
   - http-enumerator
   - http-grammar
-  - http-io-streams
   - http-kinder
   - http-listen
   - http-monad

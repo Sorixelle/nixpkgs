@@ -1560,6 +1560,8 @@ self: super: {
   http-api-data = doJailbreak super.http-api-data;
   lzma = doJailbreak super.lzma;
   psqueues = doJailbreak super.psqueues;
+  brotli = doJailbreak super.brotli;
+  brotli-streams = doJailbreak super.brotli-streams;
 
   # Break out of overspecified constraint on QuickCheck.
   # https://github.com/Gabriel439/Haskell-Nix-Derivation-Library/pull/10
